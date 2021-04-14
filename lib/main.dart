@@ -50,7 +50,7 @@ class _HomePageState extends State<HomePage> {
                   color: Colors.green,
                 ),),SizedBox(height: 25),
                 Image1(),
-                SizedBox(height: 25),
+                SizedBox(height: 35),
                 TextField(
                   decoration: InputDecoration(
                       border: OutlineInputBorder(),
