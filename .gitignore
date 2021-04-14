@@ -43,3 +43,6 @@ app.*.map.json
 
 sigin.dart
 clgData.txt
+.metadata
+pubspec.yaml
+pubspec.lock
