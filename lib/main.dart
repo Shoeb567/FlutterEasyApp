@@ -66,6 +66,13 @@ class _HomePageState extends State<HomePage> {
 
                         hintText: 'Password'
                     )),
+                TextField(
+                    decoration: InputDecoration(
+                        border: OutlineInputBorder(),
+                        //labelText: 'Default TextField',
+
+                        hintText: 'Conform Password'
+                    )),
                 SizedBox(height: 25),
                 SubmitButton(),
 
